@@ -1,5 +1,6 @@
 Student name: Lwanga Earnest
 Student number: 712195
 Student class: IT1C
-GitHub Repository: https://github.com/Earnest374/Webmark-project
-GitHub Pages URL: https://github.com/Earnest374
+GitHub Repository: https://github.com/Earnest374/earnest-webmark-up
+
+GitHub Pages URL: https://earnest374.github.io/earnest-webmark-up/index.html
